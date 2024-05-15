@@ -1,0 +1,1 @@
+This succinctly describes the stack you're using (React for the frontend, Node.js for the backend, and MySQL for the database) and the purpose of the project (creating, reading, updating, and deleting data). It's clear and to the point, making it easy for others to understand what your project is about at a glance.
